@@ -33,12 +33,14 @@ As a marketing Agency, our prrimary goal is to maximize return on investment (RO
 # Visualizations
 ![image](https://github.com/user-attachments/assets/7126146a-2429-4361-ba08-f93b46a88fe3)
 
-* To understand to correlation between clicks and conversions.
+### To understand to correlation between clicks and conversions.
   ![image](https://github.com/user-attachments/assets/01d957aa-6105-4c62-a175-a222e72f1170)
-* Weekly nad monthly conversions.
+
+### Weekly nad monthly conversions.
   ![image](https://github.com/user-attachments/assets/ff500d63-5b71-4101-8e54-2533e638699a)
   ![image](https://github.com/user-attachments/assets/06df8bbe-fad3-47f3-9abd-3014bc3cb230)
-* Cost per conversion.
+  
+  ### Cost per conversion.
   ![image](https://github.com/user-attachments/assets/e0eaa69e-acd7-4113-bcd5-38f25df34bae)
 
 
