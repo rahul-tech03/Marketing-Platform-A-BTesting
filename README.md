@@ -85,7 +85,6 @@ This project was made possible by:
 
 - **Team Members**:
   - Rahul Patil (https://github.com/yourusername) - Data Analysis and Visualization
-  -
 - **Special Thanks**:
   - [Ayushi Mishra]
   - Open-source libraries such as Pandas, NumPy, and Matplotlib.
