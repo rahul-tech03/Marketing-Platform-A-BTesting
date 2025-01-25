@@ -81,7 +81,13 @@ As a marketing Agency, our prrimary goal is to maximize return on investment (RO
 
 ## Credits
 
-- Rahul Patil(https://github.com/yourusername) - Creator and Maintainer
-- Provider: Data provider kaggle
-- Tools Used: Python, Pandas, Matplotlib, GitHub, Jupyter Notebook
+This project was made possible by:
+
+- **Team Members**:
+  - Rahul Patil (https://github.com/yourusername) - Data Analysis and Visualization
+  -
+- **Special Thanks**:
+  - [Ayushi Mishra]
+  - Open-source libraries such as Pandas, NumPy, and Matplotlib.
+
 
