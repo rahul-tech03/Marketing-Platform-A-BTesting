@@ -4,11 +4,10 @@ As a marketing Agency, our prrimary goal is to maximize return on investment (RO
 
 ## Table of Contents
 
-- [Comparing Both Platforms Using A/B Testing](#comparing-both-platforms-using-ab-testing)
-- [Hypothesis Testing to Identify the Best Platform](#hypothesis-testing-to-identify-the-best-platform)
-- [Regression Analysis to Forecast Clicks to Conversions](#regression-analysis-to-forecast-clicks-to-conversions)
-- [Time Series Analysis to Understand Marketing Ad Performance Over Time](#time-series-analysis-to-understand-marketing-ad-performance-over-time)
-
+- Comparing Both Platforms Using A/B Testing
+- Hypothesis Testing to Identify the Best Platform
+- Regression Analysis to Forecast Clicks to Conversions
+- Time Series Analysis to Understand Marketing Ad Performance Over Time
 
 ## Data Description
 
