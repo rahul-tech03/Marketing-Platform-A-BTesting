@@ -43,6 +43,24 @@ As a marketing Agency, our prrimary goal is to maximize return on investment (RO
   ### Cost per conversion.
   ![image](https://github.com/user-attachments/assets/e0eaa69e-acd7-4113-bcd5-38f25df34bae)
 
+# Technologies
 
+* Python Programming
+* Jupyter Notebook
+* Statistics
 
+# Approach
+### Data Loading and Transformation
+  To clean and make data in useful fomat for analysis using python pandas library.
+### Data Analysis
+  Analyze and understand the insights and patterns from data.
+### A/B Testing
+  Perform A/B Testing to compare facebook and adwords platform and identify which is better for client.
+### Hypothesis Testing 
+   Perform Hypothesis testing to understand which is really better platform.
+### Regression nalysis
+  Perform regression analysis to understand and preduct conversions based in clicks.
+### Time series Analysis
+  To analyze facebook campaign metrics over time. to understand the cost per conversion(CPC).
+  eg. Monthly and weekly cost per conversion.
 
