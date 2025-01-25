@@ -49,18 +49,39 @@ As a marketing Agency, our prrimary goal is to maximize return on investment (RO
 * Jupyter Notebook
 * Statistics
 
-# Approach
-### Data Loading and Transformation
-  To clean and make data in useful fomat for analysis using python pandas library.
-### Data Analysis
-  Analyze and understand the insights and patterns from data.
-### A/B Testing
-  Perform A/B Testing to compare facebook and adwords platform and identify which is better for client.
-### Hypothesis Testing 
-   Perform Hypothesis testing to understand which is really better platform.
-### Regression nalysis
-  Perform regression analysis to understand and preduct conversions based in clicks.
-### Time series Analysis
-  To analyze facebook campaign metrics over time. to understand the cost per conversion(CPC).
-  eg. Monthly and weekly cost per conversion.
+  
+## Approach
+
+### 1. Data Loading and Transformation
+- Load and clean the dataset to ensure it is in a usable format for analysis.
+- Use Python's pandas library to handle missing values, format inconsistencies, and perform necessary data transformations.
+
+### 2. Data Analysis
+- Analyze the data to identify insights and patterns, such as trends in clicks, views, and conversions.
+- Visualize key metrics to better understand the performance of Facebook and AdWords campaigns.
+
+### 3. A/B Testing
+- Conduct A/B Testing to compare the performance of Facebook and AdWords platforms.
+- Identify the platform that provides better results for the client.
+
+### 4. Hypothesis Testing
+- Perform hypothesis testing to statistically evaluate which platform is more effective.
+- Use statistical tests to validate the significance of the observed differences.
+
+### 5. Regression Analysis
+- Perform regression analysis to model the relationship between clicks and conversions.
+- Predict conversions based on the number of ad clicks, providing actionable insights for optimization.
+
+### 6. Time Series Analysis
+- Analyze Facebook campaign metrics over time to track trends and variations.
+- Understand the cost per conversion (CPC) on a weekly and monthly basis to identify periods of high or low efficiency.
+
+
+## status : Completed
+
+## Credits
+
+- Rahul Patil(https://github.com/yourusername) - Creator and Maintainer
+- Provider: Data provider kaggle
+- Tools Used: Python, Pandas, Matplotlib, GitHub, Jupyter Notebook
 
